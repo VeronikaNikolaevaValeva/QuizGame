@@ -8,6 +8,4 @@ This individual project is being carried out for a Fontys’ Advanced Software S
 The goal of this project is to create a fun and engaging trivia quiz game that will entertain and educate players of all ages. The game will feature a variety of categories and questions that will challenge players' knowledge and keep them coming back for more. The game will also be easy to use and accessible on multiple platforms, including desktop and mobile devices. Ultimately, the goal is to create a high-quality trivia quiz game that will become a go-to source of entertainment for trivia lovers everywhere.
 
 ## Roadmap
-Q&A service (https://git.fhict.nl/I450701/quiz-q-and-a-service)
-Game logic service (https://git.fhict.nl/I450701/game-logic-service)
-Game logic UI (https://git.fhict.nl/I450701/game-dashboard)
+
