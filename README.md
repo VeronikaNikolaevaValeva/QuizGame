@@ -7,5 +7,5 @@ This individual project is being carried out for a Fontys’ Advanced Software S
 ## Goal of the project
 The goal of this project is to create a fun and engaging trivia quiz game that will entertain and educate players of all ages. The game will feature a variety of categories and questions that will challenge players' knowledge and keep them coming back for more. The game will also be easy to use and accessible on multiple platforms, including desktop and mobile devices. Ultimately, the goal is to create a high-quality trivia quiz game that will become a go-to source of entertainment for trivia lovers everywhere.
 
-## Roadmap
-
+## Diagram
+![diagram](https://github.com/VeronikaNikolaevaValeva/QuizGame/assets/101473303/0a2660d6-248d-4410-8104-592682f0e944)
