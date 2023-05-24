@@ -1,0 +1,15 @@
+[submodule "game-logic-service"]
+	path = game-logic-service
+	url = https://github.com/VeronikaNikolaevaValeva/game-logic-service.git
+[submodule "game-scoreboard-service"]
+	path = game-scoreboard-service
+	url = https://github.com/VeronikaNikolaevaValeva/game-scoreboard-service.git
+[submodule "game-dashboard-ui"]
+	path = game-dashboard-ui
+	url = https://github.com/VeronikaNikolaevaValeva/game-dashboard-ui.git
+[submodule "game-scoreboard-ui"]
+	path = game-scoreboard-ui
+	url = https://github.com/VeronikaNikolaevaValeva/game-scoreboard-ui.git
+[submodule "game-q-and-a-service"]
+	path = game-q-and-a-service
+	url = https://github.com/VeronikaNikolaevaValeva/game-q-and-a-service.git
