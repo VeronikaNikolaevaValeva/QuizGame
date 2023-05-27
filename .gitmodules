@@ -10,3 +10,6 @@
 [submodule "game-q-and-a-service"]
 	path = game-q-and-a-service
 	url = https://github.com/VeronikaNikolaevaValeva/game-q-and-a-service.git
+[submodule "game-dashboard-ui"]
+	path = game-dashboard-ui
+	url = https://github.com/VeronikaNikolaevaValeva/game-dashboard-ui.git
