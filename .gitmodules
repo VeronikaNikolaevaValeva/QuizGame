@@ -4,9 +4,6 @@
 [submodule "game-scoreboard-service"]
 	path = game-scoreboard-service
 	url = https://github.com/VeronikaNikolaevaValeva/game-scoreboard-service.git
-[submodule "game-dashboard-ui"]
-	path = game-dashboard-ui
-	url = https://github.com/VeronikaNikolaevaValeva/game-dashboard-ui.git
 [submodule "game-scoreboard-ui"]
 	path = game-scoreboard-ui
 	url = https://github.com/VeronikaNikolaevaValeva/game-scoreboard-ui.git
